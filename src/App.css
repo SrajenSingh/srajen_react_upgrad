@@ -1,0 +1,31 @@
+#hi
+{
+    text-align:left;
+   
+    font-size: 25px;
+    font-style:normal;
+    margin-top:3px;
+    background-color:rgb(7, 68, 185);
+    padding-bottom:19px;  
+    padding-top:10px;
+    padding-left:8px;
+}
+#hi1
+{
+    
+    padding-right: 170px;
+    margin-left: 350px;
+    margin-top:20px;
+}
+#hi2
+{
+    background-color:rgb(7, 68, 185);;
+    font-size:17px;
+}
+#hello
+{
+    padding-top: 100px;
+    font-size:17px;
+    padding-left:490px;
+    font-style:bold;
+}
